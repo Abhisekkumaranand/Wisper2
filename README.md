@@ -1,3 +1,6 @@
+A modern web application designed for seamless real-time messaging, video calling, and language exchange, featuring beautiful UI themes and robust backend technologies.
+
+🔗 Live Demo:[wisper-live](https://wisper2.onrender.com)
 - 🌐 Real-time Messaging with Typing Indicators & Reactions
 - 📹 1-on-1 and Group Video Calls with Screen Sharing & Recording
 - 🔐 JWT Authentication & Protected Routes
